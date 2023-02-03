@@ -123,7 +123,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     @Override
-    proected void onResume() {
+    protected void onResume() {
         super.onResume();
 
         // 앱 실행시 저장된 데이터를 화면에 보여준다.
